@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Tamzz30/leetcodes/tree/master/0035-search-insert-position) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Tamzz30/leetcodes/tree/master/1518-water-bottles) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
