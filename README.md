@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Tamzz30/leetcodes/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Tamzz30/leetcodes/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Tamzz30/leetcodes/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
