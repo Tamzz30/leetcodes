@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Tamzz30/leetcodes/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/Tamzz30/leetcodes/tree/master/1518-water-bottles) |
 ## Two Pointers
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tamzz30/leetcodes/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
