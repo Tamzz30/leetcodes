@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tamzz30/leetcodes/tree/master/0035-search-insert-position) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
+| [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Tamzz30/leetcodes/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
