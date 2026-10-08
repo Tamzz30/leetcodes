@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tamzz30/leetcodes/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tamzz30/leetcodes/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tamzz30/leetcodes/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Tamzz30/leetcodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tamzz30/leetcodes/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Tamzz30/leetcodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tamzz30/leetcodes/tree/master/0344-reverse-string) |
 ## Dynamic Programming
