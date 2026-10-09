@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tamzz30/leetcodes/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Tamzz30/leetcodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Tamzz30/leetcodes/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Tamzz30/leetcodes/tree/master/1518-water-bottles) |
 ## Simulation
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tamzz30/leetcodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamzz30/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Tamzz30/leetcodes/tree/master/0509-fibonacci-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tamzz30/leetcodes/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Tamzz30/leetcodes/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Tamzz30/leetcodes/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tamzz30/leetcodes/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Tamzz30/leetcodes/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
