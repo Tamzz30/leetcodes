@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tamzz30/leetcodes/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamzz30/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamzz30/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Tamzz30/leetcodes/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tamzz30/leetcodes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Tamzz30/leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tamzz30/leetcodes/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Tamzz30/leetcodes/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tamzz30/leetcodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/Tamzz30/leetcodes/tree/master/0441-arranging-coins) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tamzz30/leetcodes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tamzz30/leetcodes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamzz30/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Tamzz30/leetcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tamzz30/leetcodes/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Tamzz30/leetcodes/tree/master/0541-reverse-string-ii) |
