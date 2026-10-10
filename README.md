@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tamzz30/leetcodes/tree/master/0035-search-insert-position) |
+| [0441-arranging-coins](https://github.com/Tamzz30/leetcodes/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tamzz30/leetcodes/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Tamzz30/leetcodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
+| [0441-arranging-coins](https://github.com/Tamzz30/leetcodes/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Tamzz30/leetcodes/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Tamzz30/leetcodes/tree/master/1518-water-bottles) |
