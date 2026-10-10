@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Tamzz30/leetcodes/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tamzz30/leetcodes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2652-sum-multiples](https://github.com/Tamzz30/leetcodes/tree/master/2652-sum-multiples) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Tamzz30/leetcodes/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Simulation
 |  |
 | ------- |
