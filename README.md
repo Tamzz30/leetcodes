@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tamzz30/leetcodes/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
+| [0875-koko-eating-bananas](https://github.com/Tamzz30/leetcodes/tree/master/0875-koko-eating-bananas) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tamzz30/leetcodes/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamzz30/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/Tamzz30/leetcodes/tree/master/0441-arranging-coins) |
+| [0875-koko-eating-bananas](https://github.com/Tamzz30/leetcodes/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
