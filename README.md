@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamzz30/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Tamzz30/leetcodes/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Tamzz30/leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tamzz30/leetcodes/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/Tamzz30/leetcodes/tree/master/0875-koko-eating-bananas) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Tamzz30/leetcodes/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamzz30/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Tamzz30/leetcodes/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Tamzz30/leetcodes/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Tamzz30/leetcodes/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tamzz30/leetcodes/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tamzz30/leetcodes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tamzz30/leetcodes/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tamzz30/leetcodes/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Tamzz30/leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tamzz30/leetcodes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tamzz30/leetcodes/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tamzz30/leetcodes/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tamzz30/leetcodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tamzz30/leetcodes/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Tamzz30/leetcodes/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Tamzz30/leetcodes/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Tamzz30/leetcodes/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Tamzz30/leetcodes/tree/master/1512-number-of-good-pairs) |
@@ -115,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Tamzz30/leetcodes/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Tamzz30/leetcodes/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Tamzz30/leetcodes/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
